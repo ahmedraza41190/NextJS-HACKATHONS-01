@@ -2,7 +2,7 @@
 
 import { CldUploadButton } from "next-cloudinary";
 import { UploadResult } from "../page";
-import { Button } from "@/components/ui/button";
+import { Button } from "./../../components/ui/button";
 import { useRouter } from "next/navigation";
 
 export default function UploadButton() {
