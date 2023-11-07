@@ -16,7 +16,7 @@ export default function UploadButton() {
             router.refresh();
           }, 2000);
         }}
-        uploadPreset="giomsr4s"
+        uploadPreset="xbzeluwi"
       >
         <div className="flex gap-2">
           <svg
